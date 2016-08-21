@@ -8,7 +8,7 @@ namespace Lesson1
 {
     class Car
     {
-       string _name;
+       public string _name;
 
         public Car(string nameOfCar)
         {
