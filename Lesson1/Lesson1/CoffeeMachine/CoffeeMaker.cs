@@ -8,5 +8,9 @@ namespace Lesson1.CoffeeMachine
 {
     class CoffeeMaker
     {
+        public static void makingCoffee()
+        {
+            static void 
+        }
     }
 }
